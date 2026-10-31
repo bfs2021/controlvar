@@ -10,6 +10,13 @@ longer applies and release-please can generate this file directly. Until it
 does, entries below 0.2.2 are hand-written and the links in them are the
 reason why.
 
+## [0.39.1](https://github.com/Controlvar/controlvar/compare/v0.39.0...v0.39.1) (2026-10-31)
+
+
+### Bug Fixes
+
+* **site:** check the public site in a browser, and let a keyboard reach the code block ([#1480](https://github.com/Controlvar/controlvar/issues/1480)) ([f944ede](https://github.com/Controlvar/controlvar/commit/f944edebb54b86f0ba1c6998efa612d6f9cc9a0f))
+
 ## [0.39.0](https://github.com/Controlvar/controlvar/compare/v0.38.0...v0.39.0) (2026-10-30)
 
 
